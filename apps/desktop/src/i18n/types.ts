@@ -1031,6 +1031,10 @@ catalog: CatalogTranslations
       active: string
       takenBy: string
       invalidShortcut: string
+      targetTitle: string
+      targetDesc: string
+      targetCurrent: string
+      targetNew: string
     }
     credentials: {
       pasteKey: string
